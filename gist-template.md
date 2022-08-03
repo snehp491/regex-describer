@@ -5,7 +5,9 @@ Regular expressions are used every where in software engineering. From validatin
 ## Summary
 
 For this walk through, we're going to break down a common case of validating that a string provided by the user is in fact a valid email addres.
-Matching an Email – /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+Matching an Email:
+
+```/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/```
 
 
 ## Table of Contents
