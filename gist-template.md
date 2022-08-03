@@ -51,4 +51,4 @@ Anchors allow us to slide a window of character matching and "anchor" it at some
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+This tutorial was put together by [@snehp491](https://github.com/snehp491)
