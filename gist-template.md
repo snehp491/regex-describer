@@ -27,6 +27,7 @@ Matching an Email:
 ## Regex Components
 
 ### Anchors
+Anchors allow us to slide a window of character matching and "anchor" it at some part of the string we are evaluating. For example, our string has ```([a-z\.]{2,6})$``` at the end, meaning we are looking for an exact character match at the end. In this case, website domains are required to be alphabet characters and between length 2 and 6 to be considered valid.
 
 ### Quantifiers
 
