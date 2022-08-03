@@ -1,10 +1,12 @@
-# Title (replace with your title)
+# RegEx Crash Course
 
-Introductory paragraph (replace this with your text)
+Regular expressions are used every where in software engineering. From validating a form input to parsing and performing operations on text, knowing a few regular expression short cuts can save you a lot of time and effort
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+For this walk through, we're going to break down a common case of validating that a string provided by the user is in fact a valid email addres.
+Matching an Email – /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+
 
 ## Table of Contents
 
